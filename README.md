@@ -8,7 +8,7 @@ This project demonstrates how Excel can be leveraged to build Sales and Finance 
 
 Project Objectives:
 
-Create a Customer Performance Report
+Create a Customer Performance Report (https://github.com/likithareddy9996-coder/Excel-Sales-Analytics)
 
 Compare Market Performance vs Sales Targets
 
